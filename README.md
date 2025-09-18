@@ -1,7 +1,3 @@
-Of course. Based on the detailed information from your project presentation, here is a more comprehensive and well-structured `README.md` file for your "Dolphin Board" project.
-
------
-
 # 🐬 Dolphin Board - A Web Hacking & Secure Coding Project
 
 [](https://www.google.com/search?q=https://www.whitehat.school/)
@@ -123,3 +119,4 @@ This project was a collaborative effort between two specialized teams:
   * ⚔️ **Attack Team (Analysis & Exploitation)**: Choi Wonjun, Choi Junseong
 
 We are proud of the practical skills and teamwork we developed through this project. Thank you for visiting our repository\!
+
